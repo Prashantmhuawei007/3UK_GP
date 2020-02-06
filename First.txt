@@ -1,1 +1,4 @@
 branch ver
+
+
+2nd merge without taking second.txt
